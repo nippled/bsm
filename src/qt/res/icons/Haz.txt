@@ -1,0 +1,13 @@
+bitcoin.ico, there are 2, 64 and 32 px
+
+When I hover it says 256, but it must be my cache. I just made them on lunapic saved as .ico and the size is definitely 64 or 32 (as choices)
+
+But I think it is a full set. I changed the splash screen. It looked revolting.
+
+The weird color that the figures are on is a pansexual flag .... symbolic hehe
+
+Overview is 64px but she will get scaled down to 32 px when compiling
+
+Thanks mate
+
+Are you American?
